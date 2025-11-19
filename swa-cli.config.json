@@ -3,7 +3,7 @@
   "configurations": {
     "frontend": {
       "appLocation": ".",
-      "outputLocation": "dist\\employee-management",
+      "outputLocation": "dist/employee-management/browser",
       "appBuildCommand": "npm run build",
       "run": "npm start",
       "appDevserverUrl": "http://localhost:4200"
